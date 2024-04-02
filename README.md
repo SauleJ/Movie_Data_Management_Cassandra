@@ -9,3 +9,4 @@ This project is a movie database management application implemented using Python
 - Execute queries to retrieve information about movies, actors, directors, and studios
 - Display movies by studio, actor by last name, director by last name, and movie by title
 
+![Image Description](cassandra_UML.png)
